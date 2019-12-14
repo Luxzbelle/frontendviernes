@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Homemade+Apple&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash|Lilita+One&display=swap');
+@charset "utf-8";
+/* CSS Document */
+
+/*instalacion de fuente*/
+@font-face{
+	src:url(fonts/aero.ttf), url("../fonts/aero.woff");
+	font-family: "font1";
+}
+
+a img{
+	border:none;
+}
+
+h1{
+	font-family: "font1";
+}
+
+i{
+	font-size: 100px;
+	color: green;
+
+}
+
+h2{
+	font-family: 'Homemade Apple';
+	font-style: italic;
+
+}
+
+h3{
+	font-family: 'Berkshire Swash';
+	font-style: italic;
+}
+
+#galeria{
+	list-style-type:none;
+	margin:0 auto;
+	width: 500px;	
+}
+#galeria li{
+	float:left;
+}
+.img2{
+	width:100px;
+	height:75px;
+}
+.miniatura{
+	filter: blur(10px);
+}
+
+.p{
+	font-family: 'Homemade Apple';
+	font-style: italic;
+	font-weight: 100;
+}
