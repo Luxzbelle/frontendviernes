@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Homemade+Apple&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash|Lilita+One&display=swap');
+@charset "utf-8";
+@font-face{
+	src:url(fonts/aero.ttf), url("../fonts/aero.woff");
+	font-family: "font1";
+}
+
+
+h1{
+	font-family: "font1";
+	align-content: center;
+}
+
+
+h2{
+	font-family: 'Homemade Apple';
+	font-style: italic;
+	align-content: center;
+
+}
+
+h3{
+	font-family: 'Berkshire Swash';
+	font-style: italic;
+	color: black;
+	flex-wrap: center;
+}
+.Caja{
+	background: lightblue;
+	margin: 0 auto;
+	height: 0 auto;
+	width: 100%;
+	align-content: center;
+}
+.Caja1{
+	border: 2px solid grey;
+	height: 0 auto;
+	background: lightgreen;
+	float: center;
+	align-content: center;
+}
+.UNITEDKINDOM{
+	font-family: 'Berkshire Swash';
+	font-style: italic;
+	color: black;
+	flex-wrap: center;	
+}
+.caja1{
+	font-family: 'Berkshire Swash';
+	font-style: italic;
+	color: black;
+	flex-wrap: center;
+}
+.caja2 {
+	font-family: 'Berkshire Swash';
+	font-style: italic;
+	color: black;
+	flex-wrap: center;
+}
+.caja3{
+	font-family: 'Berkshire Swash';
+	font-style: italic;
+	color: black;
+	flex-wrap: center;
+}
+.img {
+
+	width: 150px;
+	height: 150px;
+}
